@@ -72,7 +72,7 @@ Based on R2 scores listed above,  and residual plots, I have decided to choose m
 ## Conclusion
 After the implementation of the tax cut and jobs act, our tax consulting firm was hired to find the most optimal model in predicting sale price. Sale price is a great predictior that can help our clients compute capital gains in order for tax planning purposes in the 2020 year. Based on my teams findings, we are offering our client a linear regression model, where 94% of the variance in the data can be explained by the model. Due to time contraints, we were not able to implement a function that allows us to test different features to find the most optimal model. Using all the features in the data, allowed us for more customization in our model and better serve our client. 
 
-Recommendation
+## Recommendation
 - Gather city infromation and test opportunity zones
 
 - Feature Engineering can enhance model and be better predictors
